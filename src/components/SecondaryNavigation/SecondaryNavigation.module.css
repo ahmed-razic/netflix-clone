@@ -1,0 +1,8 @@
+.secondaryNotification {
+    display: flex;
+    align-items: center;
+}
+
+.secondaryNavItem {
+    margin-left: 2.2rem;
+}
