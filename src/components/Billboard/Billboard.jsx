@@ -9,7 +9,7 @@ function Billboard() {
                 <img src="./assets/billboard.webp" alt="billboard" />
             </div>
             <div className={styles.title}>
-                {/* <img src="/assets/billboard-title.webp" alt="title" /> */}
+                <img src="/assets/title.png" alt="title" />
                 <div className={styles.description}>
                     Netflix, Inc. is an American subscription streaming service and production company. Launched on
                     August 29, 1997, it offers a library of films and television series through distribution deals as
